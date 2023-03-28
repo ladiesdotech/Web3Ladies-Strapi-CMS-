@@ -1,0 +1,57 @@
+{
+  "kind": "singleType",
+  "collectionName": "sponsorships",
+  "info": {
+    "singularName": "sponsorship",
+    "pluralName": "sponsorships",
+    "displayName": "Sponsorship"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero_title": {
+      "type": "string"
+    },
+    "hero_description": {
+      "type": "text"
+    },
+    "hero_image": {
+      "type": "string"
+    },
+    "hero_button_text": {
+      "type": "string"
+    },
+    "hero_button_link": {
+      "type": "string"
+    },
+    "hero_button_type": {
+      "type": "string"
+    },
+    "supporters_title": {
+      "type": "string"
+    },
+    "about_title": {
+      "type": "string"
+    },
+    "about_description": {
+      "type": "text"
+    },
+    "help_title": {
+      "type": "string"
+    },
+    "help_logos": {
+      "type": "json"
+    },
+    "highlights_title": {
+      "type": "string"
+    },
+    "faqs": {
+      "type": "json"
+    },
+    "donation_items": {
+      "type": "json"
+    }
+  }
+}

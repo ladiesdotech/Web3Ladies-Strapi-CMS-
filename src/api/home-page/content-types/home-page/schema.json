@@ -1,0 +1,187 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_pages",
+  "info": {
+    "singularName": "home-page",
+    "pluralName": "home-pages",
+    "displayName": "Home-Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero_title": {
+      "type": "string"
+    },
+    "hero_description": {
+      "type": "richtext"
+    },
+    "button_one_text": {
+      "type": "string"
+    },
+    "button_one_link": {
+      "type": "string"
+    },
+    "button_two_text": {
+      "type": "string"
+    },
+    "button_two_link": {
+      "type": "string"
+    },
+    "supporters_title": {
+      "type": "string"
+    },
+    "supporters_images": {
+      "type": "json"
+    },
+    "who_we_are_title": {
+      "type": "string"
+    },
+    "who_we_are_description": {
+      "type": "richtext"
+    },
+    "who_we_are_button_text": {
+      "type": "string"
+    },
+    "who_we_are_button_link": {
+      "type": "string"
+    },
+    "join_our_community_title": {
+      "type": "string"
+    },
+    "join_our_community_description": {
+      "type": "richtext"
+    },
+    "join_our_community_button_text": {
+      "type": "string"
+    },
+    "join_our_community_button_link": {
+      "type": "string"
+    },
+    "our_numbers_title": {
+      "type": "string"
+    },
+    "our_numbers": {
+      "type": "json"
+    },
+    "our_impact_title": {
+      "type": "string"
+    },
+    "our_impact": {
+      "type": "json"
+    },
+    "highlights_title": {
+      "type": "string"
+    },
+    "highlights_items": {
+      "type": "json"
+    },
+    "become_a_sponsor_title": {
+      "type": "string"
+    },
+    "become_a_sponsor_description": {
+      "type": "richtext"
+    },
+    "become_a_sponsor_button_text": {
+      "type": "string"
+    },
+    "become_a_sponsor_button_link": {
+      "type": "string"
+    },
+    "mentorship_title": {
+      "type": "string"
+    },
+    "mentorship_logos": {
+      "type": "json"
+    },
+    "mentorship_button_text": {
+      "type": "string"
+    },
+    "mentorship_button_link": {
+      "type": "string"
+    },
+    "our_pledge_title": {
+      "type": "string"
+    },
+    "our_pledge_button_text": {
+      "type": "string"
+    },
+    "our_pledge_button_link": {
+      "type": "string"
+    },
+    "our_pledge_image_url": {
+      "type": "string"
+    },
+    "events_title": {
+      "type": "string"
+    },
+    "events_items": {
+      "type": "json"
+    },
+    "youtube_title": {
+      "type": "string"
+    },
+    "youtube_link": {
+      "type": "string"
+    },
+    "hero_image_url": {
+      "type": "string"
+    },
+    "testimonials_title": {
+      "type": "string"
+    },
+    "testimonial_items": {
+      "type": "json"
+    },
+    "join_our_community_image_url": {
+      "type": "string"
+    },
+    "youtube_button_text": {
+      "type": "string"
+    },
+    "youtube_button_link": {
+      "type": "string"
+    },
+    "become_a_sponsor_image_url": {
+      "type": "string"
+    },
+    "testimonial_description": {
+      "type": "richtext"
+    },
+    "faq_title": {
+      "type": "string"
+    },
+    "faq_data": {
+      "type": "json"
+    },
+    "about_title": {
+      "type": "string"
+    },
+    "about_desciption": {
+      "type": "text"
+    },
+    "about_button_text": {
+      "type": "string"
+    },
+    "criteria_title": {
+      "type": "string"
+    },
+    "criteria_data": {
+      "type": "json"
+    },
+    "criteria_button_text": {
+      "type": "string"
+    },
+    "how_it_works_title": {
+      "type": "string"
+    },
+    "how_it_works_button_text": {
+      "type": "string"
+    },
+    "tracks_data": {
+      "type": "json"
+    }
+  }
+}

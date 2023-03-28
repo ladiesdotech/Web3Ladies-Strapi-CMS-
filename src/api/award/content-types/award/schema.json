@@ -1,0 +1,55 @@
+{
+  "kind": "singleType",
+  "collectionName": "awards",
+  "info": {
+    "singularName": "award",
+    "pluralName": "awards",
+    "displayName": "Award",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "nominees": {
+      "type": "json"
+    },
+    "hero_content": {
+      "type": "string"
+    },
+    "hero_btn1": {
+      "type": "string"
+    },
+    "hero_btn2": {
+      "type": "string"
+    },
+    "hero_subtitle": {
+      "type": "string"
+    },
+    "nominee_title": {
+      "type": "string"
+    },
+    "nominee_name": {
+      "type": "string"
+    },
+    "nominee_company": {
+      "type": "string"
+    },
+    "nominee_country": {
+      "type": "string"
+    },
+    "nominee_aboutName": {
+      "type": "string"
+    },
+    "nominee_description": {
+      "type": "text"
+    }
+  }
+}

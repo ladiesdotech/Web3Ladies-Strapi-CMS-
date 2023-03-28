@@ -1,0 +1,214 @@
+{
+  "kind": "singleType",
+  "collectionName": "mentorship_pages",
+  "info": {
+    "singularName": "mentorship-page",
+    "pluralName": "mentorship-pages",
+    "displayName": "Mentorship-Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero_title": {
+      "type": "string"
+    },
+    "hero_button_text_one": {
+      "type": "string"
+    },
+    "hero_button_link_one": {
+      "type": "string"
+    },
+    "about_title": {
+      "type": "string"
+    },
+    "about_description": {
+      "type": "richtext"
+    },
+    "about_button_text": {
+      "type": "string"
+    },
+    "about_button_link": {
+      "type": "string"
+    },
+    "who_is_it_for_title": {
+      "type": "string"
+    },
+    "who_is_it_for_list": {
+      "type": "richtext"
+    },
+    "who_is_it_for_button_text": {
+      "type": "string"
+    },
+    "who_is_it_for_button_link": {
+      "type": "string"
+    },
+    "how_it_works_title": {
+      "type": "string"
+    },
+    "how_it_works_items": {
+      "type": "json"
+    },
+    "hands_on_title": {
+      "type": "string"
+    },
+    "hands_on_button_text": {
+      "type": "string"
+    },
+    "hands_on_button_link": {
+      "type": "string"
+    },
+    "hero_button_text_two": {
+      "type": "string"
+    },
+    "hero_button_link_two": {
+      "type": "string"
+    },
+    "hands_on_image": {
+      "type": "string"
+    },
+    "cohorts_title": {
+      "type": "string"
+    },
+    "work_assistance_title": {
+      "type": "string"
+    },
+    "work_assistance_description": {
+      "type": "string"
+    },
+    "work_assistance_worktool_image_one": {
+      "type": "string"
+    },
+    "work_assistance_worktool_image_two": {
+      "type": "string"
+    },
+    "work_assistance_worktool_image_three": {
+      "type": "string"
+    },
+    "work_assistance_button_text": {
+      "type": "string"
+    },
+    "work_assistance_button_link": {
+      "type": "string"
+    },
+    "track_title": {
+      "type": "string"
+    },
+    "track_details": {
+      "type": "json"
+    },
+    "track_button_text": {
+      "type": "string"
+    },
+    "track_button_link": {
+      "type": "string"
+    },
+    "available_mentors_details": {
+      "type": "json"
+    },
+    "become_mentor_title": {
+      "type": "string"
+    },
+    "become_mentor_button_text_one": {
+      "type": "string"
+    },
+    "become_mentor_button_link_one": {
+      "type": "string"
+    },
+    "become_mentor_button_text_two": {
+      "type": "string"
+    },
+    "become_mentor_button_link_two": {
+      "type": "string"
+    },
+    "mentor_image": {
+      "type": "string"
+    },
+    "top_mentor_title": {
+      "type": "string"
+    },
+    "top_mentor_description": {
+      "type": "string"
+    },
+    "why_learn_title": {
+      "type": "string"
+    },
+    "why_learn_description": {
+      "type": "text"
+    },
+    "why_learn_items": {
+      "type": "json"
+    },
+    "why_learn_button_text": {
+      "type": "string"
+    },
+    "why_learn_button_link": {
+      "type": "string"
+    },
+    "why_learn_image": {
+      "type": "string"
+    },
+    "available_mentees_details": {
+      "type": "json"
+    },
+    "featured_mentees_title": {
+      "type": "string"
+    },
+    "featured_mentees_button_text": {
+      "type": "string"
+    },
+    "featured_mentees_button_link": {
+      "type": "string"
+    },
+    "available_mentee_card_content": {
+      "type": "json"
+    },
+    "top_mentor_card_image": {
+      "type": "json"
+    },
+    "join_as_mentor_title_one": {
+      "type": "string"
+    },
+    "join_as_mentor_description_one": {
+      "type": "text"
+    },
+    "join_as_mentor_button_text_one": {
+      "type": "string"
+    },
+    "join_as_mentor_button_link_one": {
+      "type": "string"
+    },
+    "join_as_mentor_title_two": {
+      "type": "string"
+    },
+    "join_as_mentor_description_two": {
+      "type": "string"
+    },
+    "join_as_mentor_button_text_two": {
+      "type": "string"
+    },
+    "join_as_mentor_button_link_two": {
+      "type": "string"
+    },
+    "faq_title": {
+      "type": "string"
+    },
+    "faq_details": {
+      "type": "json"
+    },
+    "cta_title": {
+      "type": "string"
+    },
+    "cta_description": {
+      "type": "text"
+    },
+    "cta_button_text": {
+      "type": "string"
+    },
+    "cta_button_link": {
+      "type": "string"
+    }
+  }
+}

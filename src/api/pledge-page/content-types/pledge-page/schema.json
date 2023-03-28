@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "pledge_pages",
+  "info": {
+    "singularName": "pledge-page",
+    "pluralName": "pledge-pages",
+    "displayName": "Pledge Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "body": {
+      "type": "richtext"
+    },
+    "form_title": {
+      "type": "string"
+    }
+  }
+}

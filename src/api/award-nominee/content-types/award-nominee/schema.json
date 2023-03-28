@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "award_nominees",
+  "info": {
+    "singularName": "award-nominee",
+    "pluralName": "award-nominees",
+    "displayName": "Nominee",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "job_title": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string"
+    },
+    "about": {
+      "type": "richtext"
+    },
+    "image": {
+      "type": "string"
+    },
+    "surname": {
+      "type": "string"
+    }
+  }
+}

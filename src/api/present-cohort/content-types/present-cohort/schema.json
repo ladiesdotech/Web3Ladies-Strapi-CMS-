@@ -1,0 +1,46 @@
+{
+  "kind": "collectionType",
+  "collectionName": "present_cohorts",
+  "info": {
+    "singularName": "present-cohort",
+    "pluralName": "present-cohorts",
+    "displayName": "Current-Cohort",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero_title": {
+      "type": "string"
+    },
+    "hero_description": {
+      "type": "text"
+    },
+    "hero_button_text": {
+      "type": "string"
+    },
+    "hero_button_link": {
+      "type": "string"
+    },
+    "hero_button_type": {
+      "type": "string"
+    },
+    "hero_image": {
+      "type": "string"
+    },
+    "mentees_details": {
+      "type": "json"
+    },
+    "tracks_details": {
+      "type": "json"
+    },
+    "tracks": {
+      "type": "json"
+    },
+    "slug": {
+      "type": "string"
+    }
+  }
+}

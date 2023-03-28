@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "award_votings",
+  "info": {
+    "singularName": "award-voting",
+    "pluralName": "award-votings",
+    "displayName": "Award-Voting"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "full_name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "gender": {
+      "type": "string"
+    },
+    "nominee_name": {
+      "type": "string"
+    }
+  }
+}

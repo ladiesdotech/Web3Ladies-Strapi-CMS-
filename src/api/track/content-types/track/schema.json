@@ -1,0 +1,109 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tracks",
+  "info": {
+    "singularName": "track",
+    "pluralName": "tracks",
+    "displayName": "Track",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "slug": {
+      "type": "string"
+    },
+    "hero_title": {
+      "type": "string"
+    },
+    "hero_description": {
+      "type": "text"
+    },
+    "hero_image": {
+      "type": "string"
+    },
+    "hero_button_text_one": {
+      "type": "string"
+    },
+    "hero_button_link_one": {
+      "type": "string"
+    },
+    "hero_button_type_one": {
+      "type": "string"
+    },
+    "hero_button_text_two": {
+      "type": "string"
+    },
+    "hero_button_link_two": {
+      "type": "string"
+    },
+    "hero_button_type_two": {
+      "type": "string"
+    },
+    "hero_note": {
+      "type": "string"
+    },
+    "why_study_title": {
+      "type": "string"
+    },
+    "why_study_description": {
+      "type": "text"
+    },
+    "benefits_title": {
+      "type": "string"
+    },
+    "benefits_list_header_title": {
+      "type": "string"
+    },
+    "benefits_list": {
+      "type": "json"
+    },
+    "benefits_button_text": {
+      "type": "string"
+    },
+    "benefits_button_type": {
+      "type": "string"
+    },
+    "curriculum_title": {
+      "type": "string"
+    },
+    "curriculum_items": {
+      "type": "json"
+    },
+    "gains_title": {
+      "type": "string"
+    },
+    "gains_image": {
+      "type": "string"
+    },
+    "gains_list": {
+      "type": "json"
+    },
+    "gains_button_text": {
+      "type": "string"
+    },
+    "gains_button_type": {
+      "type": "string"
+    },
+    "onground_mentors_title": {
+      "type": "string"
+    },
+    "onground_mentors_description": {
+      "type": "text"
+    },
+    "onground_mentors_list": {
+      "type": "json"
+    },
+    "workshop_mentors_title": {
+      "type": "string"
+    },
+    "workshop_mentors_description": {
+      "type": "text"
+    },
+    "workshop_mentors_list": {
+      "type": "json"
+    }
+  }
+}

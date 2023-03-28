@@ -1,0 +1,49 @@
+{
+  "kind": "collectionType",
+  "collectionName": "upcoming_cohorts",
+  "info": {
+    "singularName": "upcoming-cohort",
+    "pluralName": "upcoming-cohorts",
+    "displayName": "Upcoming-Cohort",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero_title": {
+      "type": "string"
+    },
+    "hero_description": {
+      "type": "text"
+    },
+    "hero_button_text": {
+      "type": "string"
+    },
+    "hero_button_link": {
+      "type": "string"
+    },
+    "hero_button_type": {
+      "type": "string"
+    },
+    "hero_image": {
+      "type": "string"
+    },
+    "mentees_details": {
+      "type": "json"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "tracks_details": {
+      "type": "json"
+    },
+    "tracks": {
+      "type": "json"
+    },
+    "registrationDetails": {
+      "type": "json"
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "kind": "collectionType",
+  "collectionName": "upcoming_bootcamps",
+  "info": {
+    "singularName": "upcoming-bootcamp",
+    "pluralName": "upcoming-bootcamps",
+    "displayName": "Upcoming-Bootcamp",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero_title": {
+      "type": "string"
+    },
+    "hero_description": {
+      "type": "text"
+    },
+    "hero_button_text": {
+      "type": "string"
+    },
+    "hero_button_type": {
+      "type": "string"
+    },
+    "hero_button_link": {
+      "type": "string"
+    },
+    "hero_image": {
+      "type": "string"
+    },
+    "about_image": {
+      "type": "string"
+    },
+    "about_title": {
+      "type": "string"
+    },
+    "about_description": {
+      "type": "text"
+    },
+    "about_button_text": {
+      "type": "string"
+    },
+    "about_button_link": {
+      "type": "string"
+    },
+    "about_button_type": {
+      "type": "string"
+    },
+    "goals_title": {
+      "type": "string"
+    },
+    "goals_description": {
+      "type": "text"
+    },
+    "sponsors_title": {
+      "type": "string"
+    },
+    "sponsors_description": {
+      "type": "text"
+    },
+    "sponsors_image": {
+      "type": "string"
+    },
+    "sponsors_button_text": {
+      "type": "string"
+    },
+    "sponsors_button_link": {
+      "type": "string"
+    },
+    "sponsors_button_type": {
+      "type": "string"
+    },
+    "registration_details": {
+      "type": "json"
+    },
+    "tracks_details": {
+      "type": "json"
+    },
+    "why_apply_title": {
+      "type": "string"
+    },
+    "why_apply_description": {
+      "type": "text"
+    },
+    "how_it_works_title": {
+      "type": "string"
+    },
+    "how_it_works_image": {
+      "type": "string"
+    },
+    "how_it_works_description": {
+      "type": "text"
+    },
+    "how_it_works_schedule_details": {
+      "type": "json"
+    },
+    "benefits_title": {
+      "type": "string"
+    },
+    "benefits_list_header_title": {
+      "type": "string"
+    },
+    "benefits_list_details": {
+      "type": "json"
+    },
+    "benefits_button_text": {
+      "type": "string"
+    },
+    "benefits_button_type": {
+      "type": "string"
+    },
+    "gains_title": {
+      "type": "string"
+    },
+    "gains_image": {
+      "type": "string"
+    },
+    "gains_list_details": {
+      "type": "json"
+    },
+    "gains_button_text": {
+      "type": "string"
+    },
+    "gains_button_type": {
+      "type": "string"
+    },
+    "curriculum_title": {
+      "type": "string"
+    },
+    "curriculum_items_details": {
+      "type": "json"
+    },
+    "mentors_title": {
+      "type": "string"
+    },
+    "mentors_description": {
+      "type": "text"
+    },
+    "mentors_list_details": {
+      "type": "json"
+    },
+    "faqs": {
+      "type": "json"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "testimonial_title": {
+      "type": "string"
+    },
+    "testimonial_description": {
+      "type": "string"
+    },
+    "testimonials_details": {
+      "type": "json"
+    }
+  }
+}

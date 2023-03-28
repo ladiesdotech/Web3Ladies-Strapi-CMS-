@@ -1,0 +1,52 @@
+{
+  "kind": "collectionType",
+  "collectionName": "past_cohorts",
+  "info": {
+    "singularName": "past-cohort",
+    "pluralName": "past-cohorts",
+    "displayName": "Past-Cohort",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero_title": {
+      "type": "string"
+    },
+    "hero_description": {
+      "type": "text"
+    },
+    "hero_button_text": {
+      "type": "string"
+    },
+    "hero_button_link": {
+      "type": "string"
+    },
+    "hero_button_type": {
+      "type": "string"
+    },
+    "hero_image": {
+      "type": "string"
+    },
+    "mentees_details": {
+      "type": "json"
+    },
+    "highlight_items_details": {
+      "type": "json"
+    },
+    "gallery_details": {
+      "type": "json"
+    },
+    "projects_done_details": {
+      "type": "json"
+    },
+    "testimonial_items": {
+      "type": "json"
+    },
+    "slug": {
+      "type": "string"
+    }
+  }
+}

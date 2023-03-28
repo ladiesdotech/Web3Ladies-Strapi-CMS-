@@ -1,0 +1,64 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mentorship_registrations",
+  "info": {
+    "singularName": "mentorship-registration",
+    "pluralName": "mentorship-registrations",
+    "displayName": "Mentorship-Registration"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "full_name": {
+      "type": "string"
+    },
+    "twitter_handle": {
+      "type": "string"
+    },
+    "isactive": {
+      "type": "boolean"
+    },
+    "phone_number": {
+      "type": "string"
+    },
+    "slack_username": {
+      "type": "string"
+    },
+    "linkedin_url": {
+      "type": "string"
+    },
+    "nationality": {
+      "type": "string"
+    },
+    "track": {
+      "type": "string"
+    },
+    "employment_status": {
+      "type": "string"
+    },
+    "dedication": {
+      "type": "string"
+    },
+    "reason1": {
+      "type": "text"
+    },
+    "reason2": {
+      "type": "text"
+    },
+    "comment": {
+      "type": "text"
+    },
+    "email": {
+      "type": "email"
+    },
+    "profile_image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

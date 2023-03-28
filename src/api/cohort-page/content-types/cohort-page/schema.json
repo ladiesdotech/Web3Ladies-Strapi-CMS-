@@ -1,0 +1,36 @@
+{
+  "kind": "singleType",
+  "collectionName": "cohort_pages",
+  "info": {
+    "singularName": "cohort-page",
+    "pluralName": "cohort-pages",
+    "displayName": "Cohort-Page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero_title": {
+      "type": "string"
+    },
+    "hero_description": {
+      "type": "string"
+    },
+    "hero_button_text": {
+      "type": "string"
+    },
+    "hero_button_type": {
+      "type": "string"
+    },
+    "hero_button_link": {
+      "type": "string"
+    },
+    "hero_image": {
+      "type": "string"
+    },
+    "mentees_details": {
+      "type": "json"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "kind": "collectionType",
+  "collectionName": "past_bootcamps",
+  "info": {
+    "singularName": "past-bootcamp",
+    "pluralName": "past-bootcamps",
+    "displayName": "Past-Bootcamp",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero_title": {
+      "type": "string"
+    },
+    "hero_description": {
+      "type": "text"
+    },
+    "hero_button_text": {
+      "type": "string"
+    },
+    "hero_button_type": {
+      "type": "string"
+    },
+    "hero_button_link": {
+      "type": "string"
+    },
+    "hero_image": {
+      "type": "string"
+    },
+    "about_image": {
+      "type": "string"
+    },
+    "about_title": {
+      "type": "string"
+    },
+    "about_description": {
+      "type": "text"
+    },
+    "about_button_text": {
+      "type": "string"
+    },
+    "about_button_link": {
+      "type": "string"
+    },
+    "about_button_type": {
+      "type": "string"
+    },
+    "goals_title": {
+      "type": "string"
+    },
+    "goals_description": {
+      "type": "text"
+    },
+    "sponsors_title": {
+      "type": "string"
+    },
+    "sponsors_description": {
+      "type": "text"
+    },
+    "sponsors_image": {
+      "type": "string"
+    },
+    "sponsors_button_text": {
+      "type": "string"
+    },
+    "sponsors_button_link": {
+      "type": "string"
+    },
+    "sponsors_button_type": {
+      "type": "string"
+    },
+    "registration_details": {
+      "type": "json"
+    },
+    "tracks_details": {
+      "type": "json"
+    },
+    "summary_title": {
+      "type": "string"
+    },
+    "summary_description": {
+      "type": "text"
+    },
+    "past_bootcamps_mentees_details": {
+      "type": "json"
+    },
+    "highlight_items_details": {
+      "type": "json"
+    },
+    "gallery_details": {
+      "type": "json"
+    },
+    "projects_done_details": {
+      "type": "json"
+    },
+    "testimonials_details": {
+      "type": "json"
+    },
+    "slug": {
+      "type": "string"
+    }
+  }
+}

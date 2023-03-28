@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "award_successes",
+  "info": {
+    "singularName": "award-success",
+    "pluralName": "award-successes",
+    "displayName": "Award-Success",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "button_one": {
+      "type": "string"
+    },
+    "button_two": {
+      "type": "string"
+    }
+  }
+}
